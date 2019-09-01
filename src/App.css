@@ -1,33 +1,110 @@
-.App {
-  text-align: center;
+body {
+
+  white-space: nowrap;
+  writing-mode: vertical-lr;
+
+  overflow-y: hidden;
+
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.word-wrapper {
+
+  white-space: initial;
+
+  padding: 8px;
+
+  height: calc(100%-8px);
+  
+  word-break: break-all;
+
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.character-wrapper {
+
+  display: inline-block;
+
+  padding: 0;
+  margin: 3px;
+
+  width: 14px;
+  height: 12px;
+
+  line-height: 0;
+
 }
 
-.App-link {
-  color: #61dafb;
+.character-cell {
+
+  --line: 2px; 
+
+  display: inline-block;
+
+  padding: 0;
+  margin: 0;
+
+  width: calc(50% - var(--line, 1px)*2);
+  height: calc(50% - var(--line, 1px)*2);
+
+  border: var(--line, 1px) solid white;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.character-cell.top {
+
+  border-top-color: black;
+
+}
+
+.character-cell.bottom {
+
+  border-bottom-color: black;
+
+}
+
+.character-cell.left {
+
+  border-left-color: black;
+
+}
+
+.character-cell.right {
+
+  border-right-color: black;
+
+}
+
+.black.word-wrapper {
+
+  background: black
+
+}
+
+.black .character-cell {
+
+  border-color:black;
+
+}
+
+.black .character-cell.top {
+
+  border-top-color: white;
+
+}
+
+.black .character-cell.bottom {
+
+  border-bottom-color: white;
+
+}
+
+.black .character-cell.left {
+
+  border-left-color: white;
+
+}
+
+.black .character-cell.right {
+
+  border-right-color: white;
+
 }
