@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/modified-fezian/static/css/main.e801032e.chunk.css",
-    "main.js": "/modified-fezian/static/js/main.5bd056b5.chunk.js",
-    "main.js.map": "/modified-fezian/static/js/main.5bd056b5.chunk.js.map",
+    "main.css": "/modified-fezian/static/css/main.78c6afa3.chunk.css",
+    "main.js": "/modified-fezian/static/js/main.5a53d0b0.chunk.js",
+    "main.js.map": "/modified-fezian/static/js/main.5a53d0b0.chunk.js.map",
     "runtime~main.js": "/modified-fezian/static/js/runtime~main.5eed8476.js",
     "runtime~main.js.map": "/modified-fezian/static/js/runtime~main.5eed8476.js.map",
     "static/js/2.40400d6b.chunk.js": "/modified-fezian/static/js/2.40400d6b.chunk.js",
     "static/js/2.40400d6b.chunk.js.map": "/modified-fezian/static/js/2.40400d6b.chunk.js.map",
     "index.html": "/modified-fezian/index.html",
-    "precache-manifest.05230d0ce5f883cdb170c718ea3cdfec.js": "/modified-fezian/precache-manifest.05230d0ce5f883cdb170c718ea3cdfec.js",
+    "precache-manifest.029441c9eb968d70614535c1a21e2e75.js": "/modified-fezian/precache-manifest.029441c9eb968d70614535c1a21e2e75.js",
     "service-worker.js": "/modified-fezian/service-worker.js",
-    "static/css/main.e801032e.chunk.css.map": "/modified-fezian/static/css/main.e801032e.chunk.css.map"
+    "static/css/main.78c6afa3.chunk.css.map": "/modified-fezian/static/css/main.78c6afa3.chunk.css.map"
   }
 }

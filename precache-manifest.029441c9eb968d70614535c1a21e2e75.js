@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2304f15181df6278f91cd86c21710152",
+    "revision": "dc32bbd4b5e93076c4aa757d7bd14f5a",
     "url": "/modified-fezian/index.html"
   },
   {
-    "revision": "ccd3c15d8e14d174444b",
-    "url": "/modified-fezian/static/css/main.e801032e.chunk.css"
+    "revision": "8c3004190bdfdc7d02d4",
+    "url": "/modified-fezian/static/css/main.78c6afa3.chunk.css"
   },
   {
     "revision": "4329105582db7f571a0f",
     "url": "/modified-fezian/static/js/2.40400d6b.chunk.js"
   },
   {
-    "revision": "ccd3c15d8e14d174444b",
-    "url": "/modified-fezian/static/js/main.5bd056b5.chunk.js"
+    "revision": "8c3004190bdfdc7d02d4",
+    "url": "/modified-fezian/static/js/main.5a53d0b0.chunk.js"
   },
   {
     "revision": "0caa178a09e638ebadc3",

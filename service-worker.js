@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/modified-fezian/precache-manifest.05230d0ce5f883cdb170c718ea3cdfec.js"
+  "/modified-fezian/precache-manifest.029441c9eb968d70614535c1a21e2e75.js"
 );
 
 self.addEventListener('message', (event) => {
